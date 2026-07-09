@@ -17,7 +17,7 @@ conda create -n custombot python=3.10 -y
 
 
 ```bash
-conda activate medibot
+conda activate custombot
 ```
 
 ### STEP 02- install the requirements
